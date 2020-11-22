@@ -9,10 +9,10 @@
 
 /*===== Colores =====*/
 :root{
-    --first-color: #5361FF;
+    --first-color: #331832;
     --white-color: #FAFAFF;
-    --dark-color: #2A3B47;
-    --text-color: #697477;
+    --dark-color: #D81E5B;
+    --text-color: #fff;
 }
 
 /*===== Fuente y tipografia =====*/
@@ -152,6 +152,7 @@ img{
 }
 .nav__logo{
     color: var(--white-color);
+    font-size: 500;
 }
 .nav__toggle{
     color: var(--white-color);
